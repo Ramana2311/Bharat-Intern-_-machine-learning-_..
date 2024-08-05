@@ -1,5 +1,6 @@
-TASK TO PERFORM
+# Bangalore-House-Price-Prediction
 
-House Price Prediction : Develop a machine learning model for predicting house prices using Python, scikit-learn, and TensorFlow.
-Movie Recommendations : Build a movie recommendation system using collaborative filtering and machine learning techniques in Python.
-Iris Classification : Develop a ML Model for classifying iris flowers based on their features using Python, scikit-learn, and TensorFlow.
+The House Price Prediction Model is a machine learning algorithm designed to estimate the selling price of residential properties of Bangalore based on relevant features. Using historical data, the model learns patterns and relationships between input variables, such as location, size, amenities, and age of the property, to make accurate price predictions.
+
+
+[You can find the model here](https://bangalore-house-price-prediction.streamlit.app/)
